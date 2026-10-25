@@ -25,5 +25,3 @@ My first hands-on **LLM fine-tuning project**, exploring how to customize a pret
 ## Key Takeaway
 
 Learned the fundamentals of parameter-efficient LLM fine-tuning, 4-bit quantization, LoRA adapters, and running large language models on limited GPU resources.
-
-*This is a learning experiment, not a production-ready fine-tuned model.*
